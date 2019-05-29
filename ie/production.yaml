@@ -1,6 +1,8 @@
 environment:
-  name: vampio-tut5acceptance-ie
+  name: ie-production
 services:
+- name: sava-product
+  version: "^1.x"
 - name: sava-cart
   version: "^1.x"
   environment_variables:
