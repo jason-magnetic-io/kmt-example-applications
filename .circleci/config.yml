@@ -32,7 +32,7 @@ jobs:
      
 workflows:
   version: 2
-  signal-catalog-change:
+  signal-application-change:
     jobs:
       - signal-brands-update:
           filters:
