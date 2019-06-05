@@ -1,9 +1,7 @@
 environment:
   name: nl-production
 services:
-- name: sava-product
-  version: "^1.x"
 - name: sava-cart
-  version: "^1.x"
+  version: "1.x"
   environment_variables:
     locale: NL
