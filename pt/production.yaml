@@ -2,6 +2,6 @@ environment:
   name: pt-production
 services:
 - name: sava-cart
-  version: "1.x"
+  version: "2.0"
   environment_variables:
     locale: PT
