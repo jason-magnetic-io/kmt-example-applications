@@ -4,5 +4,6 @@ services:
 - name: sava-cart
   version: "1.x"
   environment_variables:
-    locale: GB
+    locale: UK
+    base: \
     

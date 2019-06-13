@@ -5,3 +5,4 @@ services:
   version: "1.x"
   environment_variables:
     locale: PT
+    base: \
