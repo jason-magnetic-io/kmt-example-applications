@@ -2,7 +2,9 @@ environment:
   name: pt-production
 services:
 - name: sava-cart
-  version: "1.x"
+  version: "2.1"
   environment_variables:
     locale: PT
-
+    base_path: \
+    title: MultiOpticas
+    show_ratings: true
