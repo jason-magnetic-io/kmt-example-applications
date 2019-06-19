@@ -5,6 +5,6 @@ services:
   version: "2.1"
   environment_variables:
     locale: PT
-    base_path: \
+    base_path: /
     title: MultiOpticas
     show_ratings: true
